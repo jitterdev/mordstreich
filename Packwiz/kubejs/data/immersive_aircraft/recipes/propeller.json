@@ -1,0 +1,18 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "II ",
+        " I ",
+        " II"
+    ],
+    "key": {
+        "I": [
+            {
+                "item": "tfc:metal/ingot/wrought_iron"
+            }
+        ]
+    },
+    "result": {
+        "item": "immersive_aircraft:propeller"
+    }
+}

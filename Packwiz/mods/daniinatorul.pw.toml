@@ -1,0 +1,13 @@
+name = "black powder weapons / guns"
+filename = "FORGE.musketmod.1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "7932317b2327243b6ed2e4101c0976b566972ed2"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4830400
+project-id = 664113

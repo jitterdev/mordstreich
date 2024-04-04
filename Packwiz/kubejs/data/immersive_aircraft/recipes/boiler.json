@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "CCC",
+        "C C",
+        "CFC"
+    ],
+    "key": {
+        "C": [
+            {
+                "item": "tfc:metal/ingot/copper"
+            }
+        ],
+        "F": [
+            {
+                "item": "minecraft:furnace"
+            }
+        ]
+    },
+    "result": {
+        "item": "immersive_aircraft:boiler"
+    }
+}

@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " S ",
+    "HPH",
+    " S "
+  ],
+  "key": {
+    "S": [
+      {
+        "item": "firmaciv:medium_triangular_sail"
+      }
+    ],
+    "H": [
+      {
+        "item": "immersive_aircraft:hull"
+      }
+    ],
+    "P": [
+      {
+        "item": "immersive_aircraft:propeller"
+      }
+    ]
+  },
+  "result": {
+    "item": "immersive_aircraft:gyrodyne"
+  }
+}

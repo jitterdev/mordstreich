@@ -1,0 +1,10 @@
+{
+  "version": 1,
+  "hiddenMods": ["euphonium"],
+  "globalModAliases": {
+    "cloth_config": "cloth-config2",
+    "playeranimator": "player-animator",
+    "embeddium": "sodium",
+    "yet-another-config-lib-forge": "yacl"
+    }
+}

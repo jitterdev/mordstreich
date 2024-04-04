@@ -1,0 +1,13 @@
+name = "ArborFirmaCraft"
+filename = "afc-1.0.7-1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "964ebbfba30c3360af3f3d5687fe6d30f051f03b"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5108868
+project-id = 877545

@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "CH ",
+    "W  ",
+    "   "
+  ],
+  "key": {
+    "C": [
+      {
+        "item": "firmaciv:firmaciv_compass"
+      }
+    ],
+    "H": [
+      {
+        "item": "minecraft:tfc:brass_mechanisms"
+      }
+    ],
+    "W": [
+      {
+        "tag": "immersive_aircraft:industrial_gears"
+      }
+    ]
+  },
+  "result": {
+    "item": "immersive_aircraft:heavy_crossbow"
+  }
+}

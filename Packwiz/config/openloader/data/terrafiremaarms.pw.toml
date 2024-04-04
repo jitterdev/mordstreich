@@ -1,0 +1,13 @@
+name = "TerraFiremaArms"
+filename = "TerraFiremaArms_v1.0.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "81d449010b364519a93cfc63e7d3c107c2529e4c"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5133504
+project-id = 979084

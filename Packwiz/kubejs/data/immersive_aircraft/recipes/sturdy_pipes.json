@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "  C",
+    "ICI",
+    "C  "
+  ],
+  "key": {
+    "C": [
+      {
+        "item": "tfc:metal/rod/copper"
+      }
+    ],
+    "I": [
+      {
+        "item": "tfc:metal/ingot/wrought_iron"
+      }
+    ]
+  },
+  "result": {
+    "item": "immersive_aircraft:sturdy_pipes"
+  }
+}

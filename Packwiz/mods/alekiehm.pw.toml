@@ -1,0 +1,13 @@
+name = "aleki's Easy Held Models"
+filename = "alekiEHM-FORGE-1.0.1-1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/5hMNyIoI/versions/FgtKPSoq/alekiEHM-FORGE-1.0.1-1.20.1.jar"
+hash-format = "sha1"
+hash = "994517707728f2ab3a26d138c49d511edb0c94ee"
+
+[update]
+[update.modrinth]
+mod-id = "5hMNyIoI"
+version = "FgtKPSoq"

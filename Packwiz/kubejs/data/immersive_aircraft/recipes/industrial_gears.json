@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " II",
+    "CLI",
+    "CC "
+  ],
+  "key": {
+    "C": [
+      {
+        "item": "tfc:metal/ingot/copper"
+      }
+    ],
+    "I": [
+      {
+        "item": "tfc:metal/ingot/steel"
+      }
+    ],
+    "L": [
+      {
+        "item": "create:precision_mechanism"
+      }
+    ]
+  },
+  "result": {
+    "item": "immersive_aircraft:industrial_gears"
+  }
+}
