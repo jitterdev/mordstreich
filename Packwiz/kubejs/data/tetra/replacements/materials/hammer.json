@@ -1,0 +1,139 @@
+[
+    {
+        "conditions": [
+            {
+                "type": "forge:mod_loaded",
+                "modid": "farmersdelight"
+            }
+        ],
+        "predicate": {
+            "items": [
+                "tfc:stone/hammer/igneous_extrusive"
+            ]
+        },
+        "item": "tetra:modular_double",
+        "modules": {
+            "double/handle": [
+                "double/basic_handle",
+                "basic_handle/stick"
+            ],
+            "double/head_left": [
+                "double/basic_hammer_left",
+                "basic_hammer/stone"
+            ],
+            "double/head_right": [
+                "double/basic_hammer_right",
+                "basic_hammer/stone"
+            ]
+        }
+    },
+    {
+        "conditions": [
+            {
+                "type": "forge:mod_loaded",
+                "modid": "farmersdelight"
+            }
+        ],
+        "predicate": {
+            "items": [
+                "tfc:stone/hammer/igneous_intrusive"
+            ]
+        },
+        "item": "tetra:modular_double",
+        "modules": {
+            "double/handle": [
+                "double/basic_handle",
+                "basic_handle/stick"
+            ],
+            "double/head_left": [
+                "double/basic_hammer_left",
+                "basic_hammer/stone"
+            ],
+            "double/head_right": [
+                "double/basic_hammer_right",
+                "basic_hammer/stone"
+            ]
+        }
+    },
+    {
+        "conditions": [
+            {
+                "type": "forge:mod_loaded",
+                "modid": "farmersdelight"
+            }
+        ],
+        "predicate": {
+            "items": [
+                "tfc:stone/hammer/metamorphic"
+            ]
+        },
+        "item": "tetra:modular_double",
+        "modules": {
+            "double/handle": [
+                "double/basic_handle",
+                "basic_handle/stick"
+            ],
+            "double/head_left": [
+                "double/basic_hammer_left",
+                "basic_hammer/stone"
+            ],
+            "double/head_right": [
+                "double/basic_hammer_right",
+                "basic_hammer/stone"
+            ]
+        }
+    },
+    {
+        "conditions": [
+            {
+                "type": "forge:mod_loaded",
+                "modid": "farmersdelight"
+            }
+        ],
+        "predicate": {
+            "items": [
+                "tfc:stone/hammer/sedimentary"
+            ]
+        },
+        "item": "tetra:modular_double",
+        "modules": {
+            "double/handle": [
+                "double/basic_handle",
+                "basic_handle/stick"
+            ],
+            "double/head_left": [
+                "double/basic_hammer_left",
+                "basic_hammer/stone"
+            ],
+            "double/head_right": [
+                "double/basic_hammer_right",
+                "basic_hammer/stone"
+            ]
+        }
+    },
+    {
+        "conditions": [
+            {
+                "type": "forge:mod_loaded",
+                "modid": "farmersdelight"
+            }
+        ],
+        "predicate": {
+            "items": [
+                "farmersdelight:golden_knife"
+            ]
+        },
+        "item": "tetra:modular_sword",
+        "modules": {
+            "sword/blade": [
+                "sword/short_blade",
+                "short_blade/gold"
+            ],
+            "sword/hilt": [
+                "sword/basic_hilt",
+                "basic_hilt/stick"
+            ]
+        }
+    }
+]
+
