@@ -1,0 +1,24 @@
+{
+    "key": "Copper",
+    "category": "metal",
+    "primary": "4",
+    "secondary": "4.2",
+    "tertiary": "2.5",
+    "durability": "180",
+    "integrityCost": "2",
+    "integrityGain": "2",
+    "magicCapacity": 60,
+    "toolLevel": "4",
+    "toolEfficiency": "5",
+    "tints": {
+        "glyph": "64b4c4",
+        "texture": "53a4b4"
+    },
+    "textures":["shiny","metal"],
+    "material" : {
+        "items": ["tfc:metal/ingot/copper"]
+    },
+    "requiredTools": {
+        "hammer_dig": 1
+    }
+}

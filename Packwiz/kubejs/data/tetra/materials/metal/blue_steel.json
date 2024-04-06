@@ -1,0 +1,24 @@
+{
+    "key": "Blue Steel",
+    "category": "metal",
+    "primary": "9",
+    "secondary": "7",
+    "tertiary": "1",
+    "durability": "2000",
+    "integrityCost": "2",
+    "integrityGain": "2",
+    "magicCapacity": 60,
+    "toolLevel": "6",
+    "toolEfficiency": "9",
+    "tints": {
+        "glyph": "64b4c4",
+        "texture": "53a4b4"
+    },
+    "textures":["shiny","metal"],
+    "material" : {
+        "items": ["tfc:metal/ingot/blue_steel"]
+    },
+    "requiredTools": {
+        "hammer_dig": 1
+    }
+}
