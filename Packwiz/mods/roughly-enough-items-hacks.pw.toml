@@ -1,6 +1,6 @@
 name = "REI Plugin Compatibilities"
 filename = "REIPluginCompatibilities-forge-12.0.93.jar"
-side = "both"
+side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/1PfY6b5p/versions/XwQE7XRH/REIPluginCompatibilities-forge-12.0.93.jar"

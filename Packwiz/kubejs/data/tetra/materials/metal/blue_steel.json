@@ -12,9 +12,9 @@
     "toolEfficiency": "9",
     "tints": {
         "glyph": "64b4c4",
-        "texture": "53a4b4"
+        "texture": "57699c"
     },
-    "textures":["shiny","metal"],
+    "textures":["shiny","metal", "default"],
     "material" : {
         "items": ["tfc:metal/ingot/blue_steel"]
     },
